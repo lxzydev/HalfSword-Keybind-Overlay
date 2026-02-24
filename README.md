@@ -13,7 +13,7 @@ Requirements
 UE4SS v3.0.1 or newer
 
 Installation
-Download from the link above
+Download
 Extract to "Half Sword\HalfswordUE5\Binaries\Win64\Half Sword\HalfswordUE5\Binaries\Win64\Half Sword\HalfswordUE5\Binaries\Win64\"
 You should have "Win64\dwmapi.dll and a Win64\ue4ss\" folder
 
